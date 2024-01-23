@@ -1,2 +1,2 @@
 # elfr
-ELF sym tab dump that parses an ELF file and displays information about its symbols
+ELF sym tab that parses ELF files and displays information about its symbols
